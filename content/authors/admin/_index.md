@@ -1,8 +1,8 @@
 ---
 role: Ph.D. Student | Temple University | College of Education and Human Development
 avatar_filename: jw-profile-pic.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research uses critical race theory to examine the intersection of
+  community-university relationships and college access..
 interests:
   - Artificial Intelligence
   - Computational Linguistics
