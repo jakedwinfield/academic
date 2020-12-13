@@ -14,12 +14,6 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
@@ -42,9 +36,6 @@ highlight_name: false
 title: Jake D. Winfield
 email: ""
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Jake D. Winfield is a Ph.D. student in Policy and Organizational Studies at Temple University. His research interests center the intersection of community-university relationships and college access for minoritized students using mixed methods and critical race theory. He currently works as a teaching assistant for undergraduate research methods courses and general education courses in the College of Education and Human Development. Before graduate school, Jake taught high school math in rural Arkansas and Phoenix, Arizona in high schools that predominantly served Black and Latinx students, respectively. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
