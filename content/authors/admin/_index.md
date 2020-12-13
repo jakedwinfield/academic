@@ -1,6 +1,6 @@
 ---
 role: Ph.D. Student | Temple University | College of Education and Human Development
-avatar_filename: jw-profile-pic.jpg
+avatar_filename: avatar.jpg
 bio: My research uses critical race theory to examine the intersection of
   community-university relationships and college access..
 interests:
