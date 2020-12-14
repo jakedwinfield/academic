@@ -13,13 +13,13 @@ social:
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/JakeWinfield
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Temple University
+    url: https://www.temple.edu/
 education:
   courses:
     - course: PhD in Artificial Intelligence
