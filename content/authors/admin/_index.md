@@ -22,15 +22,12 @@ organizations:
     url: https://www.temple.edu/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: M.A. Educational Policy
+      institution: Arizona State University
+      year: 2019
+    - course: B.A. Humanities & Political Science
+      institution: John Carroll University
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
 superuser: true
 highlight_name: false
 title: Jake D. Winfield
