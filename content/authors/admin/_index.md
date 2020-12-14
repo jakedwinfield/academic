@@ -16,7 +16,7 @@ social:
     link: https://twitter.com/JakeWinfield
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/jake-winfield-8a590237/
 organizations:
   - name: Temple University
     url: https://www.temple.edu/
