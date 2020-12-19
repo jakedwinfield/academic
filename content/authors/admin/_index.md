@@ -4,9 +4,10 @@ avatar_filename: avatar.jpg
 bio: My research uses critical race theory to examine the intersection of
   community-university relationships and college access..
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Anchor Institutions
+  - Community-University Relations
+  - College access for minoritized students
+  - Research Methods
 social:
   - icon: envelope
     icon_pack: fas
