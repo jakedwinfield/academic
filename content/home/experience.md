@@ -4,7 +4,7 @@
 widget: experience
 
 # This file represents a page section.
-headless: true
+# headless: true
 
 # Order that this section appears on the page.
 weight: 40
@@ -22,24 +22,27 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Ph.D. Student
+    company: Temple University
     company_url: ''
-    location: California
-    date_start: '2017-01-01'
+    location: Philadelphia, PA
+    date_start: '2019-08-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
+              
+        Courses taught:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * AOD 2201: Research Methods (Spring 2020, Fall 2020, Spring 2021)
+        * AOD 836: Interpersonal Communication (Fall 2020)
+        * EDAD 855: Why Care About College? (Spring 2021)
+         
+         Advisor: Dr. James Earl Davis
         
-  - title: Professor
-    company: University X
-    company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
+  - title: Design Fellow
+    company: Office of Scholarship and Innovation | Mary Lou Fulton Teacher's College | Arizona State University
+    company_url: 'https://education.asu.edu/oofsi'
+    location: Tempe, AZ
+    date_start: '2018-11-01'
+    date_end: '2019-05-31'
     description: Taught electronic engineering and researched semiconductor physics.
 ---
